@@ -1,3 +1,9 @@
+#####
+# Script to merge entries in Archidekt collection
+# Requires an export from Archidekt (.csv)
+# Gives an .csv to import
+#####
+
 # Path to the export from Archidekt.
 # The export should *not* contain the DateAdded column,
 # since that one is allowed to be different for two mergable entries
